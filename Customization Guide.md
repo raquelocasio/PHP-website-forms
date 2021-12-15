@@ -1,4 +1,4 @@
-The PHP Web Forms Customization Guide
+The PHP Website Forms Customization Guide
 =====================================
 
 When you download a form, the file "handler.php" already has a basic implementation ready for you. This guide explains how to customize handler.php.
